@@ -1,9 +1,9 @@
 # ProteinDiffusionGenerator
 ## Generative method to design novel proteins using an attention-based diffusion model
-##
-### Model A: Design based on overall secondary structure content
-### Model B: Design based on per-residue secondary structure features
-##
+
+#### Model A: Design based on overall secondary structure content
+#### Model B: Design based on per-residue secondary structure features
+
 Reference: B. Ni, D.L. Kaplan, M.J. Buehler, Generative design of de novo proteins based on secondary structure constraints using an attention-based diffusion model, Chem, 2023
 
 ![Graphical_abstract_rev](https://user-images.githubusercontent.com/101393859/225427627-94a643ca-6e69-4b44-ba5f-0eb05e87280f.jpg)
