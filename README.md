@@ -33,6 +33,7 @@ Model B: ProteinDiffusionGenerator_Model_B.ipynb
 Model A:
 
 Early stopping: https://www.dropbox.com/s/mz4afbfs0da4vb2/Model_A_early.pt?dl=0
+
 Final: https://www.dropbox.com/s/r79cf7uo80z3v15/Model_A_final.pt?dl=0
 
 Model B:
