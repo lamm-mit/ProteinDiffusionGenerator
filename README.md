@@ -3,10 +3,10 @@
 ##
 ### Model A: Design based on overall secondary structure content
 ### Model B: Design based on per-residue secondary structure features
-
+##
 Reference: B. Ni, D.L. Kaplan, M.J. Buehler, Generative design of de novo proteins based on secondary structure constraints using an attention-based diffusion model, Chem, 2023
 
-![Uploading Graphical_abstract_rev.jpg…]()
+![Graphical_abstract_rev](https://user-images.githubusercontent.com/101393859/225427627-94a643ca-6e69-4b44-ba5f-0eb05e87280f.jpg)
 
 ### Summary
 
@@ -24,5 +24,6 @@ pip install git+https://github.com/HeliXonProtein/OmegaFold.git
 
 Two Jupyter notebooks are included in this repository that feature the two models.
 
-Model A: ProteinDiffusionGenerator_Model_A.ipynb
-Model B: ProteinDiffusionGenerator_Model_B.ipynb
+#### Model A: ProteinDiffusionGenerator_Model_A.ipynb
+
+#### Model B: ProteinDiffusionGenerator_Model_B.ipynb
