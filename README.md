@@ -24,6 +24,6 @@ pip install git+https://github.com/HeliXonProtein/OmegaFold.git
 
 Two Jupyter notebooks are included in this repository that feature the two models.
 
-#### Model A: ProteinDiffusionGenerator_Model_A.ipynb
+Model A: ProteinDiffusionGenerator_Model_A.ipynb
 
-#### Model B: ProteinDiffusionGenerator_Model_B.ipynb
+Model B: ProteinDiffusionGenerator_Model_B.ipynb
