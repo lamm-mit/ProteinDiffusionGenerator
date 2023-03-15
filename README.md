@@ -6,7 +6,7 @@
 
 Reference: B. Ni, D.L. Kaplan, M.J. Buehler, Generative design of de novo proteins based on secondary structure constraints using an attention-based diffusion model, Chem, 2023
 
-![Graphical_abstract_rev](https://user-images.githubusercontent.com/101393859/225427627-94a643ca-6e69-4b44-ba5f-0eb05e87280f.jpg)
+![TOC](https://user-images.githubusercontent.com/101393859/225437879-ed7dbca5-0b7d-4466-bd5f-f619abffe388.png)
 
 ### Summary
 
