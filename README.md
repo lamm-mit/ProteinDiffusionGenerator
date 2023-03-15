@@ -27,3 +27,14 @@ Two Jupyter notebooks are included in this repository that feature the two model
 Model A: ProteinDiffusionGenerator_Model_A.ipynb
 
 Model B: ProteinDiffusionGenerator_Model_B.ipynb
+
+## Pretrained model weights
+
+Model A:
+
+Early stopping: https://www.dropbox.com/s/mz4afbfs0da4vb2/Model_A_early.pt?dl=0
+Final: https://www.dropbox.com/s/r79cf7uo80z3v15/Model_A_final.pt?dl=0
+
+Model B:
+
+https://www.dropbox.com/s/vr1laqe2rpsj6ip/Model_B_final.pt?dl=0 
