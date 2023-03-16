@@ -19,8 +19,10 @@ The design of de novo protein sequences has great potential in achieving superio
 ## Installation and use
 
 This code requires that OmegaFold be installed:
- 
+
+```
 pip install git+https://github.com/HeliXonProtein/OmegaFold.git
+```
 
 Two Jupyter notebooks are included in this repository that feature the two models.
 
